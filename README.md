@@ -1,1 +1,1 @@
-This is a reafme file
+This is a readme file
