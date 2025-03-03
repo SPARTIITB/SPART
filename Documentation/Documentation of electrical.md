@@ -15,6 +15,6 @@
 
 |Component|Name of the bought component|Purpose|Specifications||
 | :- | :- | :- | :- | :- |
-|Motors|Eco Emax II 3000 KV|To provide thrust for movement and lift|<p>3000</p><p>3-4</p><p>5”</p>|<p>` `KV</p><p>` `S </p><p>Propeller</p>|
-|Battery|Orange 4S 1500 mAh 45C Lipo|Power the system|<p>4</p><p>45</p><p>1500</p>|<p>` `S</p><p>` `C</p><p>mAh</p>|
+|Motors|Eco Emax II 3000 KV|To provide thrust for movement and lift|<p>3000</p><p>3-4</p><p>5”</p>|<p>KV</p><p>S </p><p>Propeller</p>|
+|Battery|Orange 4S 1500 mAh 45C Lipo|Power the system|<p>4</p><p>45</p><p>1500</p>|<p>S</p><p>C</p><p>mAh</p>|
 
